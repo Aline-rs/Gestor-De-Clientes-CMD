@@ -1,0 +1,7 @@
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\bin\Debug\GestorDeClientesCMD.exe.config
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\bin\Debug\GestorDeClientesCMD.exe
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\bin\Debug\GestorDeClientesCMD.pdb
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.csproj.AssemblyReference.cache
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.exe
+C:\Users\aline\source\repos\GestorDeClientesCMD\GestorDeClientesCMD\obj\Debug\GestorDeClientesCMD.pdb
